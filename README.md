@@ -20,5 +20,5 @@ HTML: For the basic structure of the page.
 
 CSS: For all styling, written in an Atomic/Utility-First approach.
 
-Flexbox: Used for centering and alignment.
+
 
