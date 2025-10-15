@@ -1,0 +1,62 @@
+.bg-green{
+    background-color: green;
+}
+.text-black{
+    color: black;
+}
+.border-black{
+    border-color: black;
+}
+
+.border-solid{
+    border-style: solid;
+}
+.border-dotted{
+    border-style: dotted;
+}
+.border-10{
+    border-width: 10px;
+}
+.border-5{
+    border-width: 5px;
+}
+
+.h-screen{
+    height: 100vh;
+}
+.width{
+    width: 90%;
+}
+.height{
+    height: 470px;
+}
+.pt-32{
+    padding-top: 32px;
+}
+.p-lf{
+    padding-left: 64px;
+    padding-right: 64px;
+}
+.p-16{
+    padding: 16px;
+}
+
+.font-serif{
+    font-family: serif;
+}
+.text-50p{
+    font-size: 50px;
+}
+
+.flex{
+    display: flex;
+}
+.item-center{
+    align-items:flex-start;
+}
+.item-start{
+    align-items: flex-start;
+}
+.justify-center{
+    justify-content: center;
+}
