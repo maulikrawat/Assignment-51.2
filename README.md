@@ -2,6 +2,8 @@ Notice Board Layout using Atomic CSS
 
 This project is a static web page that creates a "Notice Board" layout using pure HTML and CSS. It's a practical demonstration of the Atomic CSS (or utility-first) methodology, where each class in the stylesheet has a single, specific purpose. This approach allows for building complex layouts by composing simple, reusable utility classes directly in the HTML.
 
+<img width="1887" height="924" alt="Image" src="https://github.com/user-attachments/assets/b9188ebe-7a0b-4e39-ab34-c7bc78d90059" />
+
 Features :-
 
 A responsive layout centered on the page using Flexbox.
